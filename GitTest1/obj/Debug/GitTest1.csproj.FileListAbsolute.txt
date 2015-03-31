@@ -1,0 +1,8 @@
+C:\Code\Git\GitTest1\bin\Debug\GitTest1.exe
+C:\Code\Git\GitTest1\bin\Debug\GitTest1.pdb
+C:\Code\Git\GitTest1\obj\Debug\GitTest1.csprojResolveAssemblyReference.cache
+C:\Code\Git\GitTest1\obj\Debug\GitTest1.Form1.resources
+C:\Code\Git\GitTest1\obj\Debug\GitTest1.Properties.Resources.resources
+C:\Code\Git\GitTest1\obj\Debug\GitTest1.csproj.GenerateResource.Cache
+C:\Code\Git\GitTest1\obj\Debug\GitTest1.exe
+C:\Code\Git\GitTest1\obj\Debug\GitTest1.pdb
